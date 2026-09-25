@@ -1,0 +1,63 @@
+Variables (confirmer)
+│   ├── إنشاء variable
+│   ├── int / float / str / bool
+│   └── input() / print()
+│
+├── 2. Data Types (confirmer)
+│   ├── int
+│   ├── float
+│   ├── str
+│   ├── bool
+│   ├── list
+│   ├── tuple
+│   ├── dict
+│   └── set
+│
+├── 3. Conditions (confrimer)
+│   ├── if
+│   ├── elif
+│   ├── else
+│   └── and / or / not
+│
+├── 4. Loops
+│   ├── for (confirme)
+│   ├── while (confirmer)
+│   ├── range()(confrime)
+│   ├── break (confirmer)
+│   └── continue (confirmer)
+│
+├── 5. Functions (confirmer)
+│   ├── def
+│   ├── parameters
+│   ├── return
+│   ├── default parameters
+│   └── *args / **kwargs
+│
+├── 6. Lists (confirmer)
+│   ├── indexing
+│   ├── slicing
+│   ├── append()
+│   ├── insert()
+│   ├── remove()
+│   ├── pop()
+│   ├── sort()
+│   └── list comprehension
+│
+├── 7. Dictionaries
+│   ├── key / value
+│   ├── access
+│   ├── add / update
+│   ├── delete
+│   ├── keys()
+│   ├── values()
+│   └── items()
+│
+└── 8. Classes / OOP
+    ├── class
+    ├── object
+    ├── __init__()
+    ├── self
+    ├── attributes
+    ├── methods
+    ├── inheritance
+    └── encapsulation
